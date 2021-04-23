@@ -1,0 +1,24 @@
+[submodule "orderShipping"]
+	path = orderShipping
+	url = https://github.com/paras16jul1991/orderShipping.git
+	branch = main
+[submodule "orderInventory"]
+	path = orderInventory
+	url = https://github.com/paras16jul1991/orderInventory.git
+	branch = main
+[submodule "orderDelivery"]
+	path = orderDelivery
+	url = https://github.com/paras16jul1991/orderDelivery.git
+	branch = main
+[submodule "orderProcessor"]
+	path = orderProcessor
+	url = https://github.com/paras16jul1991/orderProcessor.git
+	branch = main
+[submodule "orderParent"]
+	path = orderParent
+	url = https://github.com/paras16jul1991/orderParent.git
+	branch = main
+[submodule "orderCommonParent"]
+	path = orderCommonParent
+	url = https://github.com/paras16jul1991/orderCommonParent.git
+	branch = main

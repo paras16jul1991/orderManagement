@@ -22,3 +22,7 @@
 	path = orderCommonParent
 	url = https://github.com/paras16jul1991/orderCommonParent.git
 	branch = main
+[submodule "orderCapture"]
+	path = orderCapture
+	url = https://github.com/paras16jul1991/orderCapture.git
+	branch = main
